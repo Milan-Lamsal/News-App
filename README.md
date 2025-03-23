@@ -15,13 +15,7 @@ A modern React application for browsing news from various sources with category 
 - **Dark Mode** - Toggle between light and dark themes
 - **API Caching** - Reduced API calls with intelligent browser caching
 
-## 📷 Screenshots
-
-<div align="center">
-  <img src="public/screenshots/image.png" alt="Home Page" width="45%" />
-  <img src="public/screenshots/image2.png" alt="Dark Mode" width="45%" />
-  <img src="public/screenshots/image3.png" alt="Features" width="45%" />
-</div>
+## 🔴Live Demoe(https://milan-news-app-nine-kappa.vercel.app/)
 
 ## 🔧 Technologies
 
