@@ -1,6 +1,5 @@
 # News Explorer
 
-![News Explorer Logo](./src/assets/NewLogo.jpg)
 
 A modern React application for browsing news from various sources with category filtering, search functionality, and article bookmarking.
 
@@ -19,8 +18,9 @@ A modern React application for browsing news from various sources with category 
 ## 📷 Screenshots
 
 <div align="center">
-  <img src="public/screenshots/home.png" alt="Home Page" width="45%" />
-  <img src="public/screenshots/dark-mode.png" alt="Dark Mode" width="45%" />
+  <img src="public/screenshots/image.png" alt="Home Page" width="45%" />
+  <img src="public/screenshots/image2.png" alt="Dark Mode" width="45%" />
+  <img src="public/screenshots/image3.png" alt="Features" width="45%" />
 </div>
 
 ## 🔧 Technologies
@@ -163,7 +163,11 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 ## 📜 License
 
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+---
+
+Made with ❤️ by Milan Lamsal 
 
 ## 👏 Acknowledgements
 
@@ -172,7 +176,3 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 - [Tailwind CSS](https://tailwindcss.com/) for styling
 - [Vite](https://vitejs.dev/) for the development environment
 - [React Icons](https://react-icons.github.io/react-icons/) for icons
-
----
-
-Made with ❤️ by Milan Lamsal 
