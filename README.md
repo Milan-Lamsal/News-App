@@ -18,6 +18,9 @@ A modern React application for browsing news from various sources with category 
 ## 🔴Live Demoe
 Visit the live demo: [Milan-NewsApp](https://milan-news-app-nine-kappa.vercel.app)
 
+![Blog Preview](src/assets/Image.png)
+
+
 
 ## 🔧 Technologies
 
